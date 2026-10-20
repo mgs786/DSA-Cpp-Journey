@@ -1,2 +1,2 @@
 # DSA-Cpp-Journey
-: C++ programming, problem solving, data structures, and algorithms.
+C++ programming, problem-solving, data structures, and algorithms.
